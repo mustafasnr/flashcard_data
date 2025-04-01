@@ -1,3 +1,106 @@
 {
-  "title":"Selamlar"
+  "name": "Fruit Board",
+  "isFavorite": false,
+  "cards": [
+    {
+      "level": 0,
+      "front": "Apple",
+      "back": "Elma"
+    },
+    {
+      "level": 0,
+      "front": "Banana",
+      "back": "Muz"
+    },
+    {
+      "level": 0,
+      "front": "Orange",
+      "back": "Portakal"
+    },
+    {
+      "level": 0,
+      "front": "Grapes",
+      "back": "Üzüm"
+    },
+    {
+      "level": 0,
+      "front": "Strawberry",
+      "back": "Çilek"
+    },
+    {
+      "level": 0,
+      "front": "Peach",
+      "back": "Şeftali"
+    },
+    {
+      "level": 0,
+      "front": "Pineapple",
+      "back": "Ananas"
+    },
+    {
+      "level": 0,
+      "front": "Watermelon",
+      "back": "Karpuz"
+    },
+    {
+      "level": 0,
+      "front": "Mango",
+      "back": "Mango"
+    },
+    {
+      "level": 0,
+      "front": "Blueberry",
+      "back": "Yaban mersini"
+    },
+    {
+      "level": 0,
+      "front": "Pear",
+      "back": "Armut"
+    },
+    {
+      "level": 0,
+      "front": "Plum",
+      "back": "Erik"
+    },
+    {
+      "level": 0,
+      "front": "Kiwi",
+      "back": "Kivi"
+    },
+    {
+      "level": 0,
+      "front": "Raspberry",
+      "back": "Frambuaz"
+    },
+    {
+      "level": 0,
+      "front": "Blackberry",
+      "back": "Böğürtlen"
+    },
+    {
+      "level": 0,
+      "front": "Cherry",
+      "back": "Kiraz"
+    },
+    {
+      "level": 0,
+      "front": "Lemon",
+      "back": "Limon"
+    },
+    {
+      "level": 0,
+      "front": "Lime",
+      "back": "Köy limonu"
+    },
+    {
+      "level": 0,
+      "front": "Coconut",
+      "back": "Hindistancevizi"
+    },
+    {
+      "level": 0,
+      "front": "Apricot",
+      "back": "Kayısı"
+    }
+  ]
 }
