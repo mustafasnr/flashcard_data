@@ -4,5 +4,5 @@
     "wordCount": 20,
     "description": "A board containing names of common fruits for kids to learn.",
     "uri": "https://raw.githubusercontent.com/mustafasnr/flashcard_data/refs/heads/main/fruits.json"
-  },
+  }
 ]
