@@ -1,20 +1,8 @@
 [
   {
-    "name": "Animals Board",
-    "wordCount": 50,
-    "description": "A board containing names of common animals for kids to learn.",
-    "uri": "https://example.com/boards/animals.json"
-  },
-  {
     "name": "Fruits Board",
-    "wordCount": 30,
-    "description": "Learn about different fruits with this fun board.",
-    "uri": "https://example.com/boards/fruits.json"
+    "wordCount": 20,
+    "description": "A board containing names of common fruits for kids to learn.",
+    "uri": "https://raw.githubusercontent.com/mustafasnr/flashcard_data/refs/heads/main/fruits.json"
   },
-  {
-    "name": "Vehicles Board",
-    "wordCount": 40,
-    "description": "Discover types of vehicles, from cars to airplanes.",
-    "uri": "https://example.com/boards/vehicles.json"
-  }
 ]
