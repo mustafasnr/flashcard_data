@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Animals Board",
+    "wordCount": 50,
+    "description": "A board containing names of common animals for kids to learn."
+  },
+  {
+    "name": "Fruits Board",
+    "wordCount": 30,
+    "description": "Learn about different fruits with this fun board."
+  },
+  {
+    "name": "Vehicles Board",
+    "wordCount": 40,
+    "description": "Discover types of vehicles, from cars to airplanes."
+  }
+]
