@@ -1,0 +1,246 @@
+{
+  "name": "",
+  "isFavorite": false,
+  "cards": [
+    {
+      "level": 0,
+      "front": "Dog",
+      "back": "Köpek"
+    },
+    {
+      "level": 0,
+      "front": "Cat",
+      "back": "Kedi"
+    },
+    {
+      "level": 0,
+      "front": "Bird",
+      "back": "Kuş"
+    },
+    {
+      "level": 0,
+      "front": "Fish",
+      "back": "Balık"
+    },
+    {
+      "level": 0,
+      "front": "Horse",
+      "back": "At"
+    },
+    {
+      "level": 0,
+      "front": "Cow",
+      "back": "İnek"
+    },
+    {
+      "level": 0,
+      "front": "Sheep",
+      "back": "Koyun"
+    },
+    {
+      "level": 0,
+      "front": "Goat",
+      "back": "Keçi"
+    },
+    {
+      "level": 0,
+      "front": "Pig",
+      "back": "Domuz"
+    },
+    {
+      "level": 0,
+      "front": "Chicken",
+      "back": "Tavuk"
+    },
+    {
+      "level": 0,
+      "front": "Duck",
+      "back": "Ördek"
+    },
+    {
+      "level": 0,
+      "front": "Rabbit",
+      "back": "Tavşan"
+    },
+    {
+      "level": 0,
+      "front": "Frog",
+      "back": "Kurbağa"
+    },
+    {
+      "level": 0,
+      "front": "Elephant",
+      "back": "Fil"
+    },
+    {
+      "level": 0,
+      "front": "Lion",
+      "back": "Aslan"
+    },
+    {
+      "level": 0,
+      "front": "Tiger",
+      "back": "Kaplan"
+    },
+    {
+      "level": 0,
+      "front": "Bear",
+      "back": "Ayı"
+    },
+    {
+      "level": 0,
+      "front": "Wolf",
+      "back": "Kurt"
+    },
+    {
+      "level": 0,
+      "front": "Fox",
+      "back": "Tilki"
+    },
+    {
+      "level": 0,
+      "front": "Monkey",
+      "back": "Maymun"
+    },
+    {
+      "level": 0,
+      "front": "Giraffe",
+      "back": "Zürafa"
+    },
+    {
+      "level": 0,
+      "front": "Zebra",
+      "back": "Zebra"
+    },
+    {
+      "level": 0,
+      "front": "Kangaroo",
+      "back": "Kanguru"
+    },
+    {
+      "level": 0,
+      "front": "Crocodile",
+      "back": "Timsah"
+    },
+    {
+      "level": 0,
+      "front": "Snake",
+      "back": "Yılan"
+    },
+    {
+      "level": 0,
+      "front": "Turtle",
+      "back": "Kaplumbağa"
+    },
+    {
+      "level": 0,
+      "front": "Insect",
+      "back": "Böcek"
+    },
+    {
+      "level": 0,
+      "front": "Ant",
+      "back": "Karınca"
+    },
+    {
+      "level": 0,
+      "front": "Bee",
+      "back": "Arı"
+    },
+    {
+      "level": 0,
+      "front": "Butterfly",
+      "back": "Kelebek"
+    },
+    {
+      "level": 0,
+      "front": "Spider",
+      "back": "Örümcek"
+    },
+    {
+      "level": 0,
+      "front": "Fly",
+      "back": "Sinek"
+    },
+    {
+      "level": 0,
+      "front": "Bat",
+      "back": "Yarasa"
+    },
+    {
+      "level": 0,
+      "front": "Mouse",
+      "back": "Fare"
+    },
+    {
+      "level": 0,
+      "front": "Rat",
+      "back": "Sıçan"
+    },
+    {
+      "level": 0,
+      "front": "Owl",
+      "back": "Baykuş"
+    },
+    {
+      "level": 0,
+      "front": "Peacock",
+      "back": "Tavus kuşu"
+    },
+    {
+      "level": 0,
+      "front": "Penguin",
+      "back": "Penguen"
+    },
+    {
+      "level": 0,
+      "front": "Seal",
+      "back": "Fok balığı"
+    },
+    {
+      "level": 0,
+      "front": "Whale",
+      "back": "Balina"
+    },
+    {
+      "level": 0,
+      "front": "Dolphin",
+      "back": "Yunus"
+    },
+    {
+      "level": 0,
+      "front": "Shark",
+      "back": "Köpekbalığı"
+    },
+    {
+      "level": 0,
+      "front": "Octopus",
+      "back": "Ahtapot"
+    },
+    {
+      "level": 0,
+      "front": "Crab",
+      "back": "Yengeç"
+    },
+    {
+      "level": 0,
+      "front": "Lizard",
+      "back": "Kertenkele"
+    },
+    {
+      "level": 0,
+      "front": "Camel",
+      "back": "Deve"
+    },
+    {
+      "level": 0,
+      "front": "Donkey",
+      "back": "Eşek"
+    },
+    {
+      "level": 0,
+      "front": "Turkey",
+      "back": "Hindi"
+    }
+  ]
+}
