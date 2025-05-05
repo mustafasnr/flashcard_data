@@ -1,0 +1,251 @@
+{
+  "name": "",
+  "isFavorite": false,
+  "cards": [
+    {
+      "level": 0,
+      "front": "Sunny",
+      "back": "Güneşli"
+    },
+    {
+      "level": 0,
+      "front": "Clear",
+      "back": "Açık hava"
+    },
+    {
+      "level": 0,
+      "front": "Partly cloudy",
+      "back": "Parçalı bulutlu"
+    },
+    {
+      "level": 0,
+      "front": "Cloudy",
+      "back": "Bulutlu"
+    },
+    {
+      "level": 0,
+      "front": "Overcast",
+      "back": "Kapalı hava"
+    },
+    {
+      "level": 0,
+      "front": "Foggy",
+      "back": "Sisli"
+    },
+    {
+      "level": 0,
+      "front": "Misty",
+      "back": "Puslu"
+    },
+    {
+      "level": 0,
+      "front": "Rainy",
+      "back": "Yağmurlu"
+    },
+    {
+      "level": 0,
+      "front": "Light rain",
+      "back": "Hafif yağmur"
+    },
+    {
+      "level": 0,
+      "front": "Heavy rain",
+      "back": "Şiddetli yağmur"
+    },
+    {
+      "level": 0,
+      "front": "Drizzle",
+      "back": "Çiseleme"
+    },
+    {
+      "level": 0,
+      "front": "Showers",
+      "back": "Sağanak yağmur"
+    },
+    {
+      "level": 0,
+      "front": "Thunderstorm",
+      "back": "Gök gürültülü fırtına"
+    },
+    {
+      "level": 0,
+      "front": "Thunder",
+      "back": "Gök gürültüsü"
+    },
+    {
+      "level": 0,
+      "front": "Lightning",
+      "back": "Şimşek"
+    },
+    {
+      "level": 0,
+      "front": "Snowy",
+      "back": "Karlı"
+    },
+    {
+      "level": 0,
+      "front": "Light snow",
+      "back": "Hafif kar"
+    },
+    {
+      "level": 0,
+      "front": "Heavy snow",
+      "back": "Yoğun kar"
+    },
+    {
+      "level": 0,
+      "front": "Blizzard",
+      "back": "Tipi"
+    },
+    {
+      "level": 0,
+      "front": "Sleet",
+      "back": "Sulu kar"
+    },
+    {
+      "level": 0,
+      "front": "Hail",
+      "back": "Dolu"
+    },
+    {
+      "level": 0,
+      "front": "Windy",
+      "back": "Rüzgarlı"
+    },
+    {
+      "level": 0,
+      "front": "Light breeze",
+      "back": "Hafif meltem"
+    },
+    {
+      "level": 0,
+      "front": "Strong wind",
+      "back": "Kuvvetli rüzgar"
+    },
+    {
+      "level": 0,
+      "front": "Gusty",
+      "back": "Ani rüzgar"
+    },
+    {
+      "level": 0,
+      "front": "Stormy",
+      "back": "Fırtınalı"
+    },
+    {
+      "level": 0,
+      "front": "Hurricane",
+      "back": "Kasırga"
+    },
+    {
+      "level": 0,
+      "front": "Tornado",
+      "back": "Hortum"
+    },
+    {
+      "level": 0,
+      "front": "Hot",
+      "back": "Sıcak"
+    },
+    {
+      "level": 0,
+      "front": "Warm",
+      "back": "Ilık"
+    },
+    {
+      "level": 0,
+      "front": "Mild",
+      "back": "Yumuşak hava"
+    },
+    {
+      "level": 0,
+      "front": "Cool",
+      "back": "Serin"
+    },
+    {
+      "level": 0,
+      "front": "Cold",
+      "back": "Soğuk"
+    },
+    {
+      "level": 0,
+      "front": "Freezing",
+      "back": "Dondurucu soğuk"
+    },
+    {
+      "level": 0,
+      "front": "Frosty",
+      "back": "Ayazlı"
+    },
+    {
+      "level": 0,
+      "front": "Humid",
+      "back": "Nemli"
+    },
+    {
+      "level": 0,
+      "front": "Damp",
+      "back": "Rutubetli"
+    },
+    {
+      "level": 0,
+      "front": "Dry",
+      "back": "Kuru"
+    },
+    {
+      "level": 0,
+      "front": "Dusty",
+      "back": "Tozlu"
+    },
+    {
+      "level": 0,
+      "front": "Hazy",
+      "back": "Sisli/puslu"
+    },
+    {
+      "level": 0,
+      "front": "Smoggy",
+      "back": "Dumanlı"
+    },
+    {
+      "level": 0,
+      "front": "Chilly",
+      "back": "Serin/üşütücü"
+    },
+    {
+      "level": 0,
+      "front": "Icy",
+      "back": "Buzlu"
+    },
+    {
+      "level": 0,
+      "front": "Rainbow",
+      "back": "Gökkuşağı"
+    },
+    {
+      "level": 0,
+      "front": "Changing",
+      "back": "Değişken hava"
+    },
+    {
+      "level": 0,
+      "front": "Unstable",
+      "back": "Kararsız hava"
+    },
+    {
+      "level": 0,
+      "front": "Calm",
+      "back": "Sakin hava"
+    },
+    {
+      "level": 0,
+      "front": "Gloomy",
+      "back": "Kasvetli"
+    },
+    {
+      "level": 0,
+      "front": "Bright",
+      "back": "Parlak"
+    }
+  ]
+}
