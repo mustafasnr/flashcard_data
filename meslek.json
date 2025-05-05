@@ -1,0 +1,246 @@
+{
+  "name": "",
+  "isFavorite": false,
+  "cards": [
+    {
+      "level": 0,
+      "front": "Doctor",
+      "back": "Doktor"
+    },
+    {
+      "level": 0,
+      "front": "Nurse",
+      "back": "Hemşire"
+    },
+    {
+      "level": 0,
+      "front": "Teacher",
+      "back": "Öğretmen"
+    },
+    {
+      "level": 0,
+      "front": "Student",
+      "back": "Öğrenci"
+    },
+    {
+      "level": 0,
+      "front": "Police officer",
+      "back": "Polis memuru"
+    },
+    {
+      "level": 0,
+      "front": "Firefighter",
+      "back": "İtfaiyeci"
+    },
+    {
+      "level": 0,
+      "front": "Engineer",
+      "back": "Mühendis"
+    },
+    {
+      "level": 0,
+      "front": "Mechanic",
+      "back": "Tamirci"
+    },
+    {
+      "level": 0,
+      "front": "Chef",
+      "back": "Aşçı"
+    },
+    {
+      "level": 0,
+      "front": "Waiter",
+      "back": "Garson"
+    },
+    {
+      "level": 0,
+      "front": "Farmer",
+      "back": "Çiftçi"
+    },
+    {
+      "level": 0,
+      "front": "Pilot",
+      "back": "Pilot"
+    },
+    {
+      "level": 0,
+      "front": "Driver",
+      "back": "Şoför"
+    },
+    {
+      "level": 0,
+      "front": "Dentist",
+      "back": "Diş hekimi"
+    },
+    {
+      "level": 0,
+      "front": "Lawyer",
+      "back": "Avukat"
+    },
+    {
+      "level": 0,
+      "front": "Judge",
+      "back": "Hakim"
+    },
+    {
+      "level": 0,
+      "front": "Scientist",
+      "back": "Bilim insanı"
+    },
+    {
+      "level": 0,
+      "front": "Artist",
+      "back": "Sanatçı"
+    },
+    {
+      "level": 0,
+      "front": "Singer",
+      "back": "Şarkıcı"
+    },
+    {
+      "level": 0,
+      "front": "Actor",
+      "back": "Oyuncu"
+    },
+    {
+      "level": 0,
+      "front": "Cleaner",
+      "back": "Temizlikçi"
+    },
+    {
+      "level": 0,
+      "front": "Builder",
+      "back": "İnşaatçı"
+    },
+    {
+      "level": 0,
+      "front": "Plumber",
+      "back": "Tesisatçı"
+    },
+    {
+      "level": 0,
+      "front": "Electrician",
+      "back": "Elektrikçi"
+    },
+    {
+      "level": 0,
+      "front": "Tailor",
+      "back": "Terzi"
+    },
+    {
+      "level": 0,
+      "front": "Hairdresser",
+      "back": "Kuaför"
+    },
+    {
+      "level": 0,
+      "front": "Postman",
+      "back": "Postacı"
+    },
+    {
+      "level": 0,
+      "front": "Soldier",
+      "back": "Asker"
+    },
+    {
+      "level": 0,
+      "front": "Translator",
+      "back": "Çevirmen"
+    },
+    {
+      "level": 0,
+      "front": "Photographer",
+      "back": "Fotoğrafçı"
+    },
+    {
+      "level": 0,
+      "front": "Journalist",
+      "back": "Gazeteci"
+    },
+    {
+      "level": 0,
+      "front": "Carpenter",
+      "back": "Marangoz"
+    },
+    {
+      "level": 0,
+      "front": "Librarian",
+      "back": "Kütüphaneci"
+    },
+    {
+      "level": 0,
+      "front": "Architect",
+      "back": "Mimar"
+    },
+    {
+      "level": 0,
+      "front": "Musician",
+      "back": "Müzisyen"
+    },
+    {
+      "level": 0,
+      "front": "Veterinarian",
+      "back": "Veteriner"
+    },
+    {
+      "level": 0,
+      "front": "Flight attendant",
+      "back": "Hostes"
+    },
+    {
+      "level": 0,
+      "front": "Receptionist",
+      "back": "Resepsiyonist"
+    },
+    {
+      "level": 0,
+      "front": "Programmer",
+      "back": "Yazılımcı"
+    },
+    {
+      "level": 0,
+      "front": "IT specialist",
+      "back": "Bilgi işlem uzmanı"
+    },
+    {
+      "level": 0,
+      "front": "Banker",
+      "back": "Bankacı"
+    },
+    {
+      "level": 0,
+      "front": "Cashier",
+      "back": "Kasiyer"
+    },
+    {
+      "level": 0,
+      "front": "Shop assistant",
+      "back": "Satış danışmanı"
+    },
+    {
+      "level": 0,
+      "front": "Manager",
+      "back": "Müdür"
+    },
+    {
+      "level": 0,
+      "front": "CEO",
+      "back": "Genel Müdür"
+    },
+    {
+      "level": 0,
+      "front": "Security guard",
+      "back": "Güvenlik görevlisi"
+    },
+    {
+      "level": 0,
+      "front": "Janitor",
+      "back": "Hizmetli"
+    },
+    {
+      "level": 0,
+      "front": "Model",
+      "back": "Model"
+    }
+  ]
+}
