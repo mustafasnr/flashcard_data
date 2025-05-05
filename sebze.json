@@ -1,0 +1,246 @@
+{
+  "name": "",
+  "isFavorite": false,
+  "cards": [
+    {
+      "level": 0,
+      "front": "Carrot",
+      "back": "Havuç"
+    },
+    {
+      "level": 0,
+      "front": "Potato",
+      "back": "Patates"
+    },
+    {
+      "level": 0,
+      "front": "Tomato",
+      "back": "Domates"
+    },
+    {
+      "level": 0,
+      "front": "Cucumber",
+      "back": "Salatalık"
+    },
+    {
+      "level": 0,
+      "front": "Lettuce",
+      "back": "Marul"
+    },
+    {
+      "level": 0,
+      "front": "Spinach",
+      "back": "Ispanak"
+    },
+    {
+      "level": 0,
+      "front": "Onion",
+      "back": "Soğan"
+    },
+    {
+      "level": 0,
+      "front": "Garlic",
+      "back": "Sarımsak"
+    },
+    {
+      "level": 0,
+      "front": "Pepper",
+      "back": "Biber"
+    },
+    {
+      "level": 0,
+      "front": "Broccoli",
+      "back": "Brokoli"
+    },
+    {
+      "level": 0,
+      "front": "Cauliflower",
+      "back": "Karnabahar"
+    },
+    {
+      "level": 0,
+      "front": "Eggplant",
+      "back": "Patlıcan"
+    },
+    {
+      "level": 0,
+      "front": "Zucchini",
+      "back": "Kabak"
+    },
+    {
+      "level": 0,
+      "front": "Mushroom",
+      "back": "Mantar"
+    },
+    {
+      "level": 0,
+      "front": "Green bean",
+      "back": "Yeşil fasulye"
+    },
+    {
+      "level": 0,
+      "front": "Pea",
+      "back": "Bezelye"
+    },
+    {
+      "level": 0,
+      "front": "Corn",
+      "back": "Mısır"
+    },
+    {
+      "level": 0,
+      "front": "Pumpkin",
+      "back": "Balkabağı"
+    },
+    {
+      "level": 0,
+      "front": "Radish",
+      "back": "Turp"
+    },
+    {
+      "level": 0,
+      "front": "Celery",
+      "back": "Kereviz"
+    },
+    {
+      "level": 0,
+      "front": "Leek",
+      "back": "Pırasa"
+    },
+    {
+      "level": 0,
+      "front": "Artichoke",
+      "back": "Enginar"
+    },
+    {
+      "level": 0,
+      "front": "Asparagus",
+      "back": "Kuşkonmaz"
+    },
+    {
+      "level": 0,
+      "front": "Beetroot",
+      "back": "Pancar"
+    },
+    {
+      "level": 0,
+      "front": "Chili",
+      "back": "Acı biber"
+    },
+    {
+      "level": 0,
+      "front": "Turnip",
+      "back": "Şalgam"
+    },
+    {
+      "level": 0,
+      "front": "Cabbage",
+      "back": "Lahana"
+    },
+    {
+      "level": 0,
+      "front": "Brussels sprout",
+      "back": "Brüksel lahanası"
+    },
+    {
+      "level": 0,
+      "front": "Okra",
+      "back": "Bamya"
+    },
+    {
+      "level": 0,
+      "front": "Parsley",
+      "back": "Maydanoz"
+    },
+    {
+      "level": 0,
+      "front": "Dill",
+      "back": "Dereotu"
+    },
+    {
+      "level": 0,
+      "front": "Coriander",
+      "back": "Kişniş"
+    },
+    {
+      "level": 0,
+      "front": "Basil",
+      "back": "Fesleğen"
+    },
+    {
+      "level": 0,
+      "front": "Thyme",
+      "back": "Kekik"
+    },
+    {
+      "level": 0,
+      "front": "Rosemary",
+      "back": "Biberiye"
+    },
+    {
+      "level": 0,
+      "front": "Mint",
+      "back": "Nane"
+    },
+    {
+      "level": 0,
+      "front": "Chives",
+      "back": "Frenk soğanı"
+    },
+    {
+      "level": 0,
+      "front": "Sweet potato",
+      "back": "Tatlı patates"
+    },
+    {
+      "level": 0,
+      "front": "Yam",
+      "back": "Hint yerelması"
+    },
+    {
+      "level": 0,
+      "front": "Horseradish",
+      "back": "Bayır turpu"
+    },
+    {
+      "level": 0,
+      "front": "Scallion",
+      "back": "Taze soğan"
+    },
+    {
+      "level": 0,
+      "front": "Endive",
+      "back": "Hindiba"
+    },
+    {
+      "level": 0,
+      "front": "Mustard greens",
+      "back": "Hardal otu"
+    },
+    {
+      "level": 0,
+      "front": "Kale",
+      "back": "Kara lahana"
+    },
+    {
+      "level": 0,
+      "front": "Collard greens",
+      "back": "Kollard yeşilliği"
+    },
+    {
+      "level": 0,
+      "front": "Romaine",
+      "back": "Romaine marul"
+    },
+    {
+      "level": 0,
+      "front": "Seaweed",
+      "back": "Deniz yosunu"
+    },
+    {
+      "level": 0,
+      "front": "Watercress",
+      "back": "Su teresi"
+    }
+  ]
+}
