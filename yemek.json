@@ -1,0 +1,246 @@
+{
+  "name": "",
+  "isFavorite": false,
+  "cards": [
+    {
+      "level": 0,
+      "front": "Bread",
+      "back": "Ekmek"
+    },
+    {
+      "level": 0,
+      "front": "Cheese",
+      "back": "Peynir"
+    },
+    {
+      "level": 0,
+      "front": "Butter",
+      "back": "Tereyağı"
+    },
+    {
+      "level": 0,
+      "front": "Egg",
+      "back": "Yumurta"
+    },
+    {
+      "level": 0,
+      "front": "Milk",
+      "back": "Süt"
+    },
+    {
+      "level": 0,
+      "front": "Tea",
+      "back": "Çay"
+    },
+    {
+      "level": 0,
+      "front": "Coffee",
+      "back": "Kahve"
+    },
+    {
+      "level": 0,
+      "front": "Juice",
+      "back": "Meyve suyu"
+    },
+    {
+      "level": 0,
+      "front": "Water",
+      "back": "Su"
+    },
+    {
+      "level": 0,
+      "front": "Soup",
+      "back": "Çorba"
+    },
+    {
+      "level": 0,
+      "front": "Rice",
+      "back": "Pirinç"
+    },
+    {
+      "level": 0,
+      "front": "Pasta",
+      "back": "Makarna"
+    },
+    {
+      "level": 0,
+      "front": "Meat",
+      "back": "Et"
+    },
+    {
+      "level": 0,
+      "front": "Chicken",
+      "back": "Tavuk"
+    },
+    {
+      "level": 0,
+      "front": "Fish",
+      "back": "Balık"
+    },
+    {
+      "level": 0,
+      "front": "Sausage",
+      "back": "Sosis"
+    },
+    {
+      "level": 0,
+      "front": "Salad",
+      "back": "Salata"
+    },
+    {
+      "level": 0,
+      "front": "Sandwich",
+      "back": "Sandviç"
+    },
+    {
+      "level": 0,
+      "front": "Hamburger",
+      "back": "Hamburger"
+    },
+    {
+      "level": 0,
+      "front": "Pizza",
+      "back": "Pizza"
+    },
+    {
+      "level": 0,
+      "front": "Cake",
+      "back": "Pasta"
+    },
+    {
+      "level": 0,
+      "front": "Cookie",
+      "back": "Kurabiye"
+    },
+    {
+      "level": 0,
+      "front": "Chocolate",
+      "back": "Çikolata"
+    },
+    {
+      "level": 0,
+      "front": "Ice cream",
+      "back": "Dondurma"
+    },
+    {
+      "level": 0,
+      "front": "Honey",
+      "back": "Bal"
+    },
+    {
+      "level": 0,
+      "front": "Jam",
+      "back": "Reçel"
+    },
+    {
+      "level": 0,
+      "front": "Sugar",
+      "back": "Şeker"
+    },
+    {
+      "level": 0,
+      "front": "Salt",
+      "back": "Tuz"
+    },
+    {
+      "level": 0,
+      "front": "Pepper",
+      "back": "Karabiber"
+    },
+    {
+      "level": 0,
+      "front": "Oil",
+      "back": "Yağ"
+    },
+    {
+      "level": 0,
+      "front": "Flour",
+      "back": "Un"
+    },
+    {
+      "level": 0,
+      "front": "Yogurt",
+      "back": "Yoğurt"
+    },
+    {
+      "level": 0,
+      "front": "Kebab",
+      "back": "Kebap"
+    },
+    {
+      "level": 0,
+      "front": "Steak",
+      "back": "Biftek"
+    },
+    {
+      "level": 0,
+      "front": "Noodles",
+      "back": "Erişte"
+    },
+    {
+      "level": 0,
+      "front": "Corn",
+      "back": "Mısır"
+    },
+    {
+      "level": 0,
+      "front": "Beans",
+      "back": "Fasulye"
+    },
+    {
+      "level": 0,
+      "front": "Lentils",
+      "back": "Mercimek"
+    },
+    {
+      "level": 0,
+      "front": "Mushroom",
+      "back": "Mantar"
+    },
+    {
+      "level": 0,
+      "front": "Peanut",
+      "back": "Yer fıstığı"
+    },
+    {
+      "level": 0,
+      "front": "Walnut",
+      "back": "Ceviz"
+    },
+    {
+      "level": 0,
+      "front": "Hazelnut",
+      "back": "Fındık"
+    },
+    {
+      "level": 0,
+      "front": "Almond",
+      "back": "Badem"
+    },
+    {
+      "level": 0,
+      "front": "Olive",
+      "back": "Zeytin"
+    },
+    {
+      "level": 0,
+      "front": "Pickle",
+      "back": "Turşu"
+    },
+    {
+      "level": 0,
+      "front": "Vinegar",
+      "back": "Sirke"
+    },
+    {
+      "level": 0,
+      "front": "Ketchup",
+      "back": "Ketçap"
+    },
+    {
+      "level": 0,
+      "front": "Mustard",
+      "back": "Hardal"
+    }
+  ]
+}
