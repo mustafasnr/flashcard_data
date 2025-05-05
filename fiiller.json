@@ -1,0 +1,246 @@
+{
+  "name": "",
+  "isFavorite": false,
+  "cards": [
+    {
+      "level": 0,
+      "front": "Go",
+      "back": "Gitmek"
+    },
+    {
+      "level": 0,
+      "front": "Come",
+      "back": "Gelmek"
+    },
+    {
+      "level": 0,
+      "front": "Eat",
+      "back": "Yemek yemek"
+    },
+    {
+      "level": 0,
+      "front": "Drink",
+      "back": "İçmek"
+    },
+    {
+      "level": 0,
+      "front": "Read",
+      "back": "Okumak"
+    },
+    {
+      "level": 0,
+      "front": "Write",
+      "back": "Yazmak"
+    },
+    {
+      "level": 0,
+      "front": "Speak",
+      "back": "Konuşmak"
+    },
+    {
+      "level": 0,
+      "front": "Listen",
+      "back": "Dinlemek"
+    },
+    {
+      "level": 0,
+      "front": "See",
+      "back": "Görmek"
+    },
+    {
+      "level": 0,
+      "front": "Hear",
+      "back": "Duymak"
+    },
+    {
+      "level": 0,
+      "front": "Walk",
+      "back": "Yürümek"
+    },
+    {
+      "level": 0,
+      "front": "Run",
+      "back": "Koşmak"
+    },
+    {
+      "level": 0,
+      "front": "Sleep",
+      "back": "Uyumak"
+    },
+    {
+      "level": 0,
+      "front": "Wake up",
+      "back": "Uyanmak"
+    },
+    {
+      "level": 0,
+      "front": "Sit",
+      "back": "Oturmak"
+    },
+    {
+      "level": 0,
+      "front": "Stand",
+      "back": "Ayakta durmak"
+    },
+    {
+      "level": 0,
+      "front": "Drive",
+      "back": "Sürmek"
+    },
+    {
+      "level": 0,
+      "front": "Cook",
+      "back": "Yemek pişirmek"
+    },
+    {
+      "level": 0,
+      "front": "Clean",
+      "back": "Temizlemek"
+    },
+    {
+      "level": 0,
+      "front": "Wash",
+      "back": "Yıkamak"
+    },
+    {
+      "level": 0,
+      "front": "Buy",
+      "back": "Satın almak"
+    },
+    {
+      "level": 0,
+      "front": "Sell",
+      "back": "Satmak"
+    },
+    {
+      "level": 0,
+      "front": "Work",
+      "back": "Çalışmak"
+    },
+    {
+      "level": 0,
+      "front": "Study",
+      "back": "Ders çalışmak"
+    },
+    {
+      "level": 0,
+      "front": "Play",
+      "back": "Oynamak"
+    },
+    {
+      "level": 0,
+      "front": "Swim",
+      "back": "Yüzmek"
+    },
+    {
+      "level": 0,
+      "front": "Dance",
+      "back": "Dans etmek"
+    },
+    {
+      "level": 0,
+      "front": "Sing",
+      "back": "Şarkı söylemek"
+    },
+    {
+      "level": 0,
+      "front": "Draw",
+      "back": "Çizmek"
+    },
+    {
+      "level": 0,
+      "front": "Paint",
+      "back": "Boyamak"
+    },
+    {
+      "level": 0,
+      "front": "Think",
+      "back": "Düşünmek"
+    },
+    {
+      "level": 0,
+      "front": "Know",
+      "back": "Bilmek"
+    },
+    {
+      "level": 0,
+      "front": "Understand",
+      "back": "Anlamak"
+    },
+    {
+      "level": 0,
+      "front": "Like",
+      "back": "Beğenmek"
+    },
+    {
+      "level": 0,
+      "front": "Love",
+      "back": "Sevmek"
+    },
+    {
+      "level": 0,
+      "front": "Hate",
+      "back": "Nefret etmek"
+    },
+    {
+      "level": 0,
+      "front": "Need",
+      "back": "İhtiyaç duymak"
+    },
+    {
+      "level": 0,
+      "front": "Want",
+      "back": "İstemek"
+    },
+    {
+      "level": 0,
+      "front": "Help",
+      "back": "Yardım etmek"
+    },
+    {
+      "level": 0,
+      "front": "Open",
+      "back": "Açmak"
+    },
+    {
+      "level": 0,
+      "front": "Close",
+      "back": "Kapatmak"
+    },
+    {
+      "level": 0,
+      "front": "Start",
+      "back": "Başlamak"
+    },
+    {
+      "level": 0,
+      "front": "Finish",
+      "back": "Bitirmek"
+    },
+    {
+      "level": 0,
+      "front": "Wait",
+      "back": "Beklemek"
+    },
+    {
+      "level": 0,
+      "front": "Call",
+      "back": "Aramak"
+    },
+    {
+      "level": 0,
+      "front": "Travel",
+      "back": "Seyahat etmek"
+    },
+    {
+      "level": 0,
+      "front": "Laugh",
+      "back": "Gülmek"
+    },
+    {
+      "level": 0,
+      "front": "Cry",
+      "back": "Ağlamak"
+    }
+  ]
+}
