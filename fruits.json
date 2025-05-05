@@ -101,6 +101,146 @@
       "level": 0,
       "front": "Apricot",
       "back": "Kayısı"
+    },
+    {
+      "level": 0,
+      "front": "Fig",
+      "back": "İncir"
+    },
+    {
+      "level": 0,
+      "front": "Date",
+      "back": "Hurma"
+    },
+    {
+      "level": 0,
+      "front": "Pomegranate",
+      "back": "Nar"
+    },
+    {
+      "level": 0,
+      "front": "Melon",
+      "back": "Kavun"
+    },
+    {
+      "level": 0,
+      "front": "Nectarine",
+      "back": "Nektarin"
+    },
+    {
+      "level": 0,
+      "front": "Tangerine",
+      "back": "Mandalina"
+    },
+    {
+      "level": 0,
+      "front": "Cranberry",
+      "back": "Turna yemişi"
+    },
+    {
+      "level": 0,
+      "front": "Passion fruit",
+      "back": "Çarkıfelek meyvesi"
+    },
+    {
+      "level": 0,
+      "front": "Guava",
+      "back": "Guava"
+    },
+    {
+      "level": 0,
+      "front": "Papaya",
+      "back": "Papaya"
+    },
+    {
+      "level": 0,
+      "front": "Lychee",
+      "back": "Liçi"
+    },
+    {
+      "level": 0,
+      "front": "Dragon fruit",
+      "back": "Pitaya"
+    },
+    {
+      "level": 0,
+      "front": "Star fruit",
+      "back": "Yıldız meyvesi"
+    },
+    {
+      "level": 0,
+      "front": "Jackfruit",
+      "back": "Jak meyvesi"
+    },
+    {
+      "level": 0,
+      "front": "Durian",
+      "back": "Durian"
+    },
+    {
+      "level": 0,
+      "front": "Mulberry",
+      "back": "Dut"
+    },
+    {
+      "level": 0,
+      "front": "Gooseberry",
+      "back": "Bektaşi üzümü"
+    },
+    {
+      "level": 0,
+      "front": "Persimmon",
+      "back": "Trabzon hurması"
+    },
+    {
+      "level": 0,
+      "front": "Quince",
+      "back": "Ayva"
+    },
+    {
+      "level": 0,
+      "front": "Currant",
+      "back": "Kuşüzümü"
+    },
+    {
+      "level": 0,
+      "front": "Olive",
+      "back": "Zeytin"
+    },
+    {
+      "level": 0,
+      "front": "Cantaloupe",
+      "back": "Kavun türü"
+    },
+    {
+      "level": 0,
+      "front": "Soursop",
+      "back": "Graviola"
+    },
+    {
+      "level": 0,
+      "front": "Salak",
+      "back": "Yılan meyvesi"
+    },
+    {
+      "level": 0,
+      "front": "Longan",
+      "back": "Longan"
+    },
+    {
+      "level": 0,
+      "front": "Tamarind",
+      "back": "Demirhindi"
+    },
+    {
+      "level": 0,
+      "front": "Bilberry",
+      "back": "Orman mersini"
+    },
+    {
+      "level": 0,
+      "front": "Jujube",
+      "back": "Hünnap"
     }
   ]
 }
