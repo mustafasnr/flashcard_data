@@ -1,8 +1,68 @@
 [
   {
-    "name": "Fruits Board",
-    "wordCount": 20,
+    "name": "Araçlar",
+    "wordCount": 50,
     "description": "A board containing names of common fruits for kids to learn.",
-    "uri": "https://raw.githubusercontent.com/mustafasnr/flashcard_data/refs/heads/main/fruits.json"
-  }
+    "uri": "https://raw.githubusercontent.com/mustafasnr/flashcard_data/refs/heads/main/araclar.json"
+  },
+  {
+    "name": "Duygular",
+    "wordCount": 50,
+    "description": "A board containing names of common fruits for kids to learn.",
+    "uri": "https://raw.githubusercontent.com/mustafasnr/flashcard_data/refs/heads/main/duygular.json"
+  },
+  {
+    "name": "Eşyalar",
+    "wordCount": 50,
+    "description": "A board containing names of common fruits for kids to learn.",
+    "uri": "https://raw.githubusercontent.com/mustafasnr/flashcard_data/refs/heads/main/esyalar.json"
+  },
+  {
+    "name": "Fiiller",
+    "wordCount": 50,
+    "description": "A board containing names of common fruits for kids to learn.",
+    "uri": "https://raw.githubusercontent.com/mustafasnr/flashcard_data/refs/heads/main/fiiller.json"
+  },
+  {
+    "name": "Meyveler",
+    "wordCount": 50,
+    "description": "A board containing names of common fruits for kids to learn.",
+    "uri": "https://raw.githubusercontent.com/mustafasnr/flashcard_data/refs/heads/main/meyve.json"
+  },
+  {
+    "name": "Hava Durumları",
+    "wordCount": 50,
+    "description": "A board containing names of common fruits for kids to learn.",
+    "uri": "https://raw.githubusercontent.com/mustafasnr/flashcard_data/refs/heads/main/hava.json"
+  },
+  {
+    "name": "Hayvanlar",
+    "wordCount": 50,
+    "description": "A board containing names of common fruits for kids to learn.",
+    "uri": "https://raw.githubusercontent.com/mustafasnr/flashcard_data/refs/heads/main/hayvan.json"
+  },
+  {
+    "name": "Kıyafetler",
+    "wordCount": 50,
+    "description": "A board containing names of common fruits for kids to learn.",
+    "uri": "https://raw.githubusercontent.com/mustafasnr/flashcard_data/refs/heads/main/kiyafet.json"
+  },
+  {
+    "name": "Meslekler",
+    "wordCount": 50,
+    "description": "A board containing names of common fruits for kids to learn.",
+    "uri": "https://raw.githubusercontent.com/mustafasnr/flashcard_data/refs/heads/main/meslek.json"
+  },
+  {
+    "name": "Sebzeler",
+    "wordCount": 50,
+    "description": "A board containing names of common fruits for kids to learn.",
+    "uri": "https://raw.githubusercontent.com/mustafasnr/flashcard_data/refs/heads/main/sebze.json"
+  },
+  {
+    "name": "Yemekler",
+    "wordCount": 50,
+    "description": "A board containing names of common fruits for kids to learn.",
+    "uri": "https://raw.githubusercontent.com/mustafasnr/flashcard_data/refs/heads/main/yemek.json"
+  },
 ]
