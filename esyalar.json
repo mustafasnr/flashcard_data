@@ -1,0 +1,251 @@
+{
+    "name": "",
+    "isFavorite": false,
+    "cards": [
+        {
+            "level": 0,
+            "front": "Chair",
+            "back": "Sandalye"
+        },
+        {
+            "level": 0,
+            "front": "Table",
+            "back": "Masa"
+        },
+        {
+            "level": 0,
+            "front": "Bed",
+            "back": "Yatak"
+        },
+        {
+            "level": 0,
+            "front": "Pillow",
+            "back": "Yastık"
+        },
+        {
+            "level": 0,
+            "front": "Blanket",
+            "back": "Battaniye"
+        },
+        {
+            "level": 0,
+            "front": "Couch",
+            "back": "Kanepe"
+        },
+        {
+            "level": 0,
+            "front": "Lamp",
+            "back": "Lamba"
+        },
+        {
+            "level": 0,
+            "front": "Shelf",
+            "back": "Raf"
+        },
+        {
+            "level": 0,
+            "front": "Mirror",
+            "back": "Ayna"
+        },
+        {
+            "level": 0,
+            "front": "Clock",
+            "back": "Saat"
+        },
+        {
+            "level": 0,
+            "front": "Fridge",
+            "back": "Buzdolabı"
+        },
+        {
+            "level": 0,
+            "front": "Oven",
+            "back": "Fırın"
+        },
+        {
+            "level": 0,
+            "front": "Sink",
+            "back": "Lavabo"
+        },
+        {
+            "level": 0,
+            "front": "Toilet",
+            "back": "Tuvalet"
+        },
+        {
+            "level": 0,
+            "front": "Shower",
+            "back": "Duş"
+        },
+        {
+            "level": 0,
+            "front": "Curtains",
+            "back": "Perdeler"
+        },
+        {
+            "level": 0,
+            "front": "Floor",
+            "back": "Zemin"
+        },
+        {
+            "level": 0,
+            "front": "Wall",
+            "back": "Duvar"
+        },
+        {
+            "level": 0,
+            "front": "Ceiling",
+            "back": "Tavan"
+        },
+        {
+            "level": 0,
+            "front": "Fan",
+            "back": "Vantilatör"
+        },
+        {
+            "level": 0,
+            "front": "Television",
+            "back": "Televizyon"
+        },
+        {
+            "level": 0,
+            "front": "Remote",
+            "back": "Kumanda"
+        },
+        {
+            "level": 0,
+            "front": "Carpet",
+            "back": "Halı"
+        },
+        {
+            "level": 0,
+            "front": "Mat",
+            "back": "Paspas"
+        },
+        {
+            "level": 0,
+            "front": "Trash can",
+            "back": "Çöp kutusu"
+        },
+        {
+            "level": 0,
+            "front": "Broom",
+            "back": "Süpürge"
+        },
+        {
+            "level": 0,
+            "front": "Vacuum",
+            "back": "Elektrikli süpürge"
+        },
+        {
+            "level": 0,
+            "front": "Bucket",
+            "back": "Kova"
+        },
+        {
+            "level": 0,
+            "front": "Mop",
+            "back": "Paspas"
+        },
+        {
+            "level": 0,
+            "front": "Iron",
+            "back": "Ütü"
+        },
+        {
+            "level": 0,
+            "front": "Ironing board",
+            "back": "Ütü masası"
+        },
+        {
+            "level": 0,
+            "front": "Washing machine",
+            "back": "Çamaşır makinesi"
+        },
+        {
+            "level": 0,
+            "front": "Dryer",
+            "back": "Kurutucu"
+        },
+        {
+            "level": 0,
+            "front": "Dishwasher",
+            "back": "Bulaşık makinesi"
+        },
+        {
+            "level": 0,
+            "front": "Cup",
+            "back": "Bardak"
+        },
+        {
+            "level": 0,
+            "front": "Glass",
+            "back": "Cam bardak"
+        },
+        {
+            "level": 0,
+            "front": "Plate",
+            "back": "Tabak"
+        },
+        {
+            "level": 0,
+            "front": "Spoon",
+            "back": "Kaşık"
+        },
+        {
+            "level": 0,
+            "front": "Fork",
+            "back": "Çatal"
+        },
+        {
+            "level": 0,
+            "front": "Knife",
+            "back": "Bıçak"
+        },
+        {
+            "level": 0,
+            "front": "Pot",
+            "back": "Tencere"
+        },
+        {
+            "level": 0,
+            "front": "Pan",
+            "back": "Tava"
+        },
+        {
+            "level": 0,
+            "front": "Stove",
+            "back": "Ocak"
+        },
+        {
+            "level": 0,
+            "front": "Microwave",
+            "back": "Mikrodalga"
+        },
+        {
+            "level": 0,
+            "front": "Kettle",
+            "back": "Su ısıtıcısı"
+        },
+        {
+            "level": 0,
+            "front": "Toaster",
+            "back": "Tost makinesi"
+        },
+        {
+            "level": 0,
+            "front": "Blender",
+            "back": "Blender"
+        },
+        {
+            "level": 0,
+            "front": "Cupboard",
+            "back": "Mutfak dolabı"
+        },
+        {
+            "level": 0,
+            "front": "Drawer",
+            "back": "Çekmece"
+        }
+    ]
+}
