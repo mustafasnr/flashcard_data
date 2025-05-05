@@ -1,0 +1,246 @@
+{
+  "name": "",
+  "isFavorite": false,
+  "cards": [
+    {
+      "level": 0,
+      "front": "Happy",
+      "back": "Mutlu"
+    },
+    {
+      "level": 0,
+      "front": "Sad",
+      "back": "Üzgün"
+    },
+    {
+      "level": 0,
+      "front": "Angry",
+      "back": "Kızgın"
+    },
+    {
+      "level": 0,
+      "front": "Tired",
+      "back": "Yorgun"
+    },
+    {
+      "level": 0,
+      "front": "Excited",
+      "back": "Heyecanlı"
+    },
+    {
+      "level": 0,
+      "front": "Scared",
+      "back": "Korkmuş"
+    },
+    {
+      "level": 0,
+      "front": "Worried",
+      "back": "Endişeli"
+    },
+    {
+      "level": 0,
+      "front": "Surprised",
+      "back": "Şaşırmış"
+    },
+    {
+      "level": 0,
+      "front": "Lonely",
+      "back": "Yalnız"
+    },
+    {
+      "level": 0,
+      "front": "Calm",
+      "back": "Sakin"
+    },
+    {
+      "level": 0,
+      "front": "Confused",
+      "back": "Kafası karışık"
+    },
+    {
+      "level": 0,
+      "front": "Shy",
+      "back": "Utanmış"
+    },
+    {
+      "level": 0,
+      "front": "Embarrassed",
+      "back": "Mahcup"
+    },
+    {
+      "level": 0,
+      "front": "Proud",
+      "back": "Gururlu"
+    },
+    {
+      "level": 0,
+      "front": "Bored",
+      "back": "Sıkılmış"
+    },
+    {
+      "level": 0,
+      "front": "Jealous",
+      "back": "Kıskanç"
+    },
+    {
+      "level": 0,
+      "front": "Relaxed",
+      "back": "Rahatlamış"
+    },
+    {
+      "level": 0,
+      "front": "Nervous",
+      "back": "Gergin"
+    },
+    {
+      "level": 0,
+      "front": "Hopeful",
+      "back": "Umutlu"
+    },
+    {
+      "level": 0,
+      "front": "Grateful",
+      "back": "Minnettar"
+    },
+    {
+      "level": 0,
+      "front": "Cheerful",
+      "back": "Neşeli"
+    },
+    {
+      "level": 0,
+      "front": "Anxious",
+      "back": "Endişeli"
+    },
+    {
+      "level": 0,
+      "front": "Furious",
+      "back": "Öfkeli"
+    },
+    {
+      "level": 0,
+      "front": "Disappointed",
+      "back": "Hayal kırıklığına uğramış"
+    },
+    {
+      "level": 0,
+      "front": "Hopeful",
+      "back": "Umutlu"
+    },
+    {
+      "level": 0,
+      "front": "Upset",
+      "back": "Üzgün, canı sıkkın"
+    },
+    {
+      "level": 0,
+      "front": "Friendly",
+      "back": "Arkadaş canlısı"
+    },
+    {
+      "level": 0,
+      "front": "Brave",
+      "back": "Cesur"
+    },
+    {
+      "level": 0,
+      "front": "Kind",
+      "back": "Nazik"
+    },
+    {
+      "level": 0,
+      "front": "Mean",
+      "back": "Kaba, huysuz"
+    },
+    {
+      "level": 0,
+      "front": "Polite",
+      "back": "Kibar"
+    },
+    {
+      "level": 0,
+      "front": "Rude",
+      "back": "Kaba"
+    },
+    {
+      "level": 0,
+      "front": "Lazy",
+      "back": "Tembel"
+    },
+    {
+      "level": 0,
+      "front": "Active",
+      "back": "Aktif"
+    },
+    {
+      "level": 0,
+      "front": "Energetic",
+      "back": "Enerjik"
+    },
+    {
+      "level": 0,
+      "front": "Curious",
+      "back": "Meraklı"
+    },
+    {
+      "level": 0,
+      "front": "Silly",
+      "back": "Aptalca, saçma"
+    },
+    {
+      "level": 0,
+      "front": "Smart",
+      "back": "Zeki"
+    },
+    {
+      "level": 0,
+      "front": "Serious",
+      "back": "Ciddi"
+    },
+    {
+      "level": 0,
+      "front": "Friendly",
+      "back": "Dost canlısı"
+    },
+    {
+      "level": 0,
+      "front": "Moody",
+      "back": "Karamsar"
+    },
+    {
+      "level": 0,
+      "front": "Charming",
+      "back": "Çekici"
+    },
+    {
+      "level": 0,
+      "front": "Gentle",
+      "back": "Nazik, yumuşak"
+    },
+    {
+      "level": 0,
+      "front": "Clumsy",
+      "back": "Sakar"
+    },
+    {
+      "level": 0,
+      "front": "Talkative",
+      "back": "Konuşkan"
+    },
+    {
+      "level": 0,
+      "front": "Quiet",
+      "back": "Sessiz"
+    },
+    {
+      "level": 0,
+      "front": "Funny",
+      "back": "Komik"
+    },
+    {
+      "level": 0,
+      "front": "Helpful",
+      "back": "Yardımsever"
+    }
+  ]
+}
