@@ -1,0 +1,251 @@
+{
+  "name": "",
+  "isFavorite": false,
+  "cards": [
+    {
+      "level": 0,
+      "front": "Shirt",
+      "back": "Gömlek"
+    },
+    {
+      "level": 0,
+      "front": "T-shirt",
+      "back": "Tişört"
+    },
+    {
+      "level": 0,
+      "front": "Sweater",
+      "back": "Kazak"
+    },
+    {
+      "level": 0,
+      "front": "Jacket",
+      "back": "Ceket"
+    },
+    {
+      "level": 0,
+      "front": "Coat",
+      "back": "Mont"
+    },
+    {
+      "level": 0,
+      "front": "Pants",
+      "back": "Pantolon"
+    },
+    {
+      "level": 0,
+      "front": "Jeans",
+      "back": "Kot pantolon"
+    },
+    {
+      "level": 0,
+      "front": "Shorts",
+      "back": "Şort"
+    },
+    {
+      "level": 0,
+      "front": "Skirt",
+      "back": "Etek"
+    },
+    {
+      "level": 0,
+      "front": "Dress",
+      "back": "Elbise"
+    },
+    {
+      "level": 0,
+      "front": "Socks",
+      "back": "Çorap"
+    },
+    {
+      "level": 0,
+      "front": "Shoes",
+      "back": "Ayakkabı"
+    },
+    {
+      "level": 0,
+      "front": "Sneakers",
+      "back": "Spor ayakkabı"
+    },
+    {
+      "level": 0,
+      "front": "Boots",
+      "back": "Bot"
+    },
+    {
+      "level": 0,
+      "front": "Sandals",
+      "back": "Sandalet"
+    },
+    {
+      "level": 0,
+      "front": "Hat",
+      "back": "Şapka"
+    },
+    {
+      "level": 0,
+      "front": "Cap",
+      "back": "Kasket"
+    },
+    {
+      "level": 0,
+      "front": "Scarf",
+      "back": "Atkı"
+    },
+    {
+      "level": 0,
+      "front": "Gloves",
+      "back": "Eldiven"
+    },
+    {
+      "level": 0,
+      "front": "Belt",
+      "back": "Kemer"
+    },
+    {
+      "level": 0,
+      "front": "Tie",
+      "back": "Kravat"
+    },
+    {
+      "level": 0,
+      "front": "Suit",
+      "back": "Takım elbise"
+    },
+    {
+      "level": 0,
+      "front": "Blouse",
+      "back": "Bluz"
+    },
+    {
+      "level": 0,
+      "front": "Underwear",
+      "back": "İç çamaşırı"
+    },
+    {
+      "level": 0,
+      "front": "Bra",
+      "back": "Sütyen"
+    },
+    {
+      "level": 0,
+      "front": "Swimsuit",
+      "back": "Mayo"
+    },
+    {
+      "level": 0,
+      "front": "Pajamas",
+      "back": "Pijama"
+    },
+    {
+      "level": 0,
+      "front": "Raincoat",
+      "back": "Yağmurluk"
+    },
+    {
+      "level": 0,
+      "front": "Hoodie",
+      "back": "Kapüşonlu"
+    },
+    {
+      "level": 0,
+      "front": "Zipper",
+      "back": "Fermuar"
+    },
+    {
+      "level": 0,
+      "front": "Button",
+      "back": "Düğme"
+    },
+    {
+      "level": 0,
+      "front": "Pocket",
+      "back": "Cep"
+    },
+    {
+      "level": 0,
+      "front": "Collar",
+      "back": "Yaka"
+    },
+    {
+      "level": 0,
+      "front": "Sleeve",
+      "back": "Kol (giysi)"
+    },
+    {
+      "level": 0,
+      "front": "Fabric",
+      "back": "Kumaş"
+    },
+    {
+      "level": 0,
+      "front": "Style",
+      "back": "Stil"
+    },
+    {
+      "level": 0,
+      "front": "Fashion",
+      "back": "Moda"
+    },
+    {
+      "level": 0,
+      "front": "Loose",
+      "back": "Bol"
+    },
+    {
+      "level": 0,
+      "front": "Tight",
+      "back": "Dar"
+    },
+    {
+      "level": 0,
+      "front": "New",
+      "back": "Yeni"
+    },
+    {
+      "level": 0,
+      "front": "Old",
+      "back": "Eski"
+    },
+    {
+      "level": 0,
+      "front": "Clean",
+      "back": "Temiz"
+    },
+    {
+      "level": 0,
+      "front": "Dirty",
+      "back": "Kirli"
+    },
+    {
+      "level": 0,
+      "front": "Try on",
+      "back": "Denemek (kıyafet)"
+    },
+    {
+      "level": 0,
+      "front": "Wear",
+      "back": "Giymek"
+    },
+    {
+      "level": 0,
+      "front": "Take off",
+      "back": "Çıkarmak"
+    },
+    {
+      "level": 0,
+      "front": "Fit",
+      "back": "Uymak"
+    },
+    {
+      "level": 0,
+      "front": "Size",
+      "back": "Beden"
+    },
+    {
+      "level": 0,
+      "front": "Color",
+      "back": "Renk"
+    }
+  ]
+}
