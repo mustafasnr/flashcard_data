@@ -1,0 +1,246 @@
+{
+  "name": "",
+  "isFavorite": false,
+  "cards": [
+    {
+      "level": 0,
+      "front": "Car",
+      "back": "Araba"
+    },
+    {
+      "level": 0,
+      "front": "Bus",
+      "back": "Otobüs"
+    },
+    {
+      "level": 0,
+      "front": "Train",
+      "back": "Tren"
+    },
+    {
+      "level": 0,
+      "front": "Plane",
+      "back": "Uçak"
+    },
+    {
+      "level": 0,
+      "front": "Ship",
+      "back": "Gemi"
+    },
+    {
+      "level": 0,
+      "front": "Boat",
+      "back": "Tekne"
+    },
+    {
+      "level": 0,
+      "front": "Taxi",
+      "back": "Taksi"
+    },
+    {
+      "level": 0,
+      "front": "Bicycle",
+      "back": "Bisiklet"
+    },
+    {
+      "level": 0,
+      "front": "Motorcycle",
+      "back": "Motosiklet"
+    },
+    {
+      "level": 0,
+      "front": "Truck",
+      "back": "Kamyon"
+    },
+    {
+      "level": 0,
+      "front": "Van",
+      "back": "Minibüs"
+    },
+    {
+      "level": 0,
+      "front": "Subway",
+      "back": "Metro"
+    },
+    {
+      "level": 0,
+      "front": "Helicopter",
+      "back": "Helikopter"
+    },
+    {
+      "level": 0,
+      "front": "Tram",
+      "back": "Tramvay"
+    },
+    {
+      "level": 0,
+      "front": "Scooter",
+      "back": "Scooter"
+    },
+    {
+      "level": 0,
+      "front": "Skateboard",
+      "back": "Kaykay"
+    },
+    {
+      "level": 0,
+      "front": "Rollerblades",
+      "back": "Paten"
+    },
+    {
+      "level": 0,
+      "front": "Canoe",
+      "back": "Kano"
+    },
+    {
+      "level": 0,
+      "front": "Yacht",
+      "back": "Yat"
+    },
+    {
+      "level": 0,
+      "front": "Hot air balloon",
+      "back": "Sıcak hava balonu"
+    },
+    {
+      "level": 0,
+      "front": "Spaceship",
+      "back": "Uzay gemisi"
+    },
+    {
+      "level": 0,
+      "front": "Ambulance",
+      "back": "Ambulans"
+    },
+    {
+      "level": 0,
+      "front": "Police car",
+      "back": "Polis arabası"
+    },
+    {
+      "level": 0,
+      "front": "Fire truck",
+      "back": "İtfaiye aracı"
+    },
+    {
+      "level": 0,
+      "front": "Cable car",
+      "back": "Teleferik"
+    },
+    {
+      "level": 0,
+      "front": "Jet",
+      "back": "Jet"
+    },
+    {
+      "level": 0,
+      "front": "Hovercraft",
+      "back": "Hovercraft"
+    },
+    {
+      "level": 0,
+      "front": "Rickshaw",
+      "back": "Tuk tuk"
+    },
+    {
+      "level": 0,
+      "front": "Sled",
+      "back": "Kızak"
+    },
+    {
+      "level": 0,
+      "front": "Cart",
+      "back": "Araba (el arabası vs.)"
+    },
+    {
+      "level": 0,
+      "front": "Trailer",
+      "back": "Römork"
+    },
+    {
+      "level": 0,
+      "front": "Caravan",
+      "back": "Karavan"
+    },
+    {
+      "level": 0,
+      "front": "Monorail",
+      "back": "Tek raylı tren"
+    },
+    {
+      "level": 0,
+      "front": "Cruise ship",
+      "back": "Yolcu gemisi"
+    },
+    {
+      "level": 0,
+      "front": "Ferry",
+      "back": "Feribot"
+    },
+    {
+      "level": 0,
+      "front": "Jet ski",
+      "back": "Jet ski"
+    },
+    {
+      "level": 0,
+      "front": "Segway",
+      "back": "Segway"
+    },
+    {
+      "level": 0,
+      "front": "Bulldozer",
+      "back": "Dozer"
+    },
+    {
+      "level": 0,
+      "front": "Forklift",
+      "back": "Forklift"
+    },
+    {
+      "level": 0,
+      "front": "Tractor",
+      "back": "Traktör"
+    },
+    {
+      "level": 0,
+      "front": "Wheelchair",
+      "back": "Tekerlekli sandalye"
+    },
+    {
+      "level": 0,
+      "front": "Stroller",
+      "back": "Bebek arabası"
+    },
+    {
+      "level": 0,
+      "front": "Horse carriage",
+      "back": "At arabası"
+    },
+    {
+      "level": 0,
+      "front": "Submarine",
+      "back": "Denizaltı"
+    },
+    {
+      "level": 0,
+      "front": "Tanker",
+      "back": "Tanker"
+    },
+    {
+      "level": 0,
+      "front": "Rowboat",
+      "back": "Kürekli sandal"
+    },
+    {
+      "level": 0,
+      "front": "Electric scooter",
+      "back": "Elektrikli scooter"
+    },
+    {
+      "level": 0,
+      "front": "Minivan",
+      "back": "Aile arabası"
+    }
+  ]
+}
